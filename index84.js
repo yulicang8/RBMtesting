@@ -433,7 +433,7 @@ var Page = {
       {x: 170, y: 1570, r: 247, g: 194, b: 16, match: true, threshold: 30}
     ],
     back: {x: 190, y: 1650},
-    next: {x: 1000, y: 690, r: 238, g: 172, b: 8}
+    next: {x: 920, y: 690, r: 238, g: 172, b: 8}
   },
   ConfirmPurchaseBoxPage: {
     name: 'ConfirmPurchasePage',
