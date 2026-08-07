@@ -1681,7 +1681,7 @@ Tsum.prototype.linkTsums = function(path) {
     if (j === 0) {
       tapDown(x, y, 10);
     }
-    moveTo(x, y, 25);
+    moveTo(x, y, 10);
     if (j === path.length - 1) {
       tapUp(x, y, 10);
     }
